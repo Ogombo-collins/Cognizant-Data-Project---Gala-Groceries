@@ -1,5 +1,5 @@
 # Cognizant-Data-Project---Gala-Groceries
-An Exploratory Data Analysis of Gala Groceries sales data as the initial stage of heling the groceries company address its supply chain challenges
+An Exploratory Data Analysis of Gala Groceries sales data as the initial stage of helping the groceries company address its supply chain challenges
 
 
 Gala Groceries is a technology-led grocery store chain based in the USA. They rely heavily on new technologies, such as IoT to give them a competitive edge over other grocery stores. 
