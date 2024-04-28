@@ -29,5 +29,6 @@ Key tasks you will perform include:
 - Data Modeling
 - Model Building and Interpretation
 - Machine Learning Production
+
 Each of the above-highlighted tasks will be performed by you in collaboration with Cognizant’s AI team.
 
